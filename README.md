@@ -16,6 +16,7 @@
 | [**ThinkCraft**](https://github.com/zqshi/ThinkCraft) | 思考与创作实验。 | JavaScript |
 | [**ai-native-project-**](https://github.com/zqshi/ai-native-project-) | 当 Coding Agent 大量进入企业、模糊传统岗位边界，如何构建可信的交易。 | JavaScript |
 | [**outcome**](https://github.com/zqshi/outcome) | 面向企业数字员工的生产力与质量治理体系。以「已验收的任务成果」为锚点，把执行尝试、成本投入、用户验收、质量评测与实验对比串成证据链，回答交付了什么、节省了多少、改进是否被验证。 | HTML |
+| [**Cognition**](https://github.com/zqshi/Cognition) | 让 Agent 从经验中学习，形成可复用的知识，越用越聪明。 | — |
 | [**travel**](https://github.com/zqshi/travel) | AI 驱动的跨境旅行规划与预定系统。不止生成攻略，而是把需求澄清、行程规划、多平台比价、在线预定、订单跟踪串成从聊天到交付的完整链路。 | Python |
 | [**Continuous-learning**](https://github.com/zqshi/Continuous-learning) | Agent 快速演化不断挑战工程瓶颈，学习要跟上。 | HTML |
 
